@@ -11,5 +11,4 @@ b.) for(i=1;i<=n;i*=3)
       for(j=1;i<=n;j++)
     printf("Hello");
     
-    
 ANS nLog(n)
